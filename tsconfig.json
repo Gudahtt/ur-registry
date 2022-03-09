@@ -5,11 +5,13 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "allowJs": true,
+    "declaration": true,
     "importHelpers": true,
     "strict": true,
     "sourceMap": true,
     "noFallthroughCasesInSwitch": true,
     "removeComments": true,
+    "declarationMap": true,
     "outDir": "./dist"
   },
   "include": ["src/**/*"]
